@@ -1,0 +1,13 @@
+Desafio de programação - Anderson Lima Wernek
+
+A solução consistem em 2 projetos
+1) XPTO.UI - Projeto em Windows Forms que contém
+	I) Interface DesafioUI.cs, com duas funcionalidades:
+		a) Gerar Dígito Verificador
+		b) Verificar Matrículas
+2) XPTO.UT - Projeto de Teste Unitário
+	a) classe CalculadorUT
+	b) VerificadorUT
+
+Fora da solução, os arquivos para extrair e persistir as matrículas, deverão estar em C:\
+Arquivos .txt: matriculasComDV.txt, matriculasParaVerificar.txt, matriculasSemDV.txt, matriculasVerificadas.txt

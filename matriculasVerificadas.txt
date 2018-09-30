@@ -1,0 +1,10 @@
+0902-8 falso
+0924-2 falso
+1790-D verdadeiro
+5289-C verdadeiro
+5339-0 falso
+5548-9 falso
+7076-4 falso
+7831-F verdadeiro
+9343-C verdadeiro
+9734-B verdadeiro
