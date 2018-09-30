@@ -1,5 +1,8 @@
 Desafio de programação - Anderson Lima Wernek
 
+.Net 4.5
+Windows Forms
+
 A solução consistem em 2 projetos
 1) XPTO.UI - Projeto em Windows Forms que contém
 	I) Interface DesafioUI.cs, com duas funcionalidades:
@@ -11,3 +14,9 @@ A solução consistem em 2 projetos
 
 Fora da solução, os arquivos para extrair e persistir as matrículas, deverão estar em C:\
 Arquivos .txt: matriculasComDV.txt, matriculasParaVerificar.txt, matriculasSemDV.txt, matriculasVerificadas.txt
+
+Obs.: Visual Studio precisará ser executado como administrador para poder ter acesso aos arquivos em C:\
+
+
+
+https://github.com/awernek/XPTO
